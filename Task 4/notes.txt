@@ -1,0 +1,37 @@
+--------------------------------------------------------------------
+read image
+
+convert it to grayscale
+gaussian blur
+color manipulation
+
+define region of interest
+perspective change
+
+sliding window algo
+curve fit
+
+invert perspective
+create masks
+
+overlay masks on org image
+
+display image
+
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------
+
+https://www.analyticsvidhya.com/blog/2020/05/tutorial-real-time-lane-detection-opencv/
+https://www.ni.com/en-in/innovations/white-papers/06/image-processing-with-ni-vision-development-module.html
+https://cv-tricks.com/object-detection/faster-r-cnn-yolo-ssd/
+
+https://www.hackster.io/kemfic/curved-lane-detection-34f771
+
+https://github.com/visualbuffer/copilot

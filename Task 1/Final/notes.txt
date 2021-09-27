@@ -1,0 +1,23 @@
+
+Dijsktra Case1 - Time= 1.4028875827789307 Cost= 181.0
+Dijsktra Case2 - Time= 2.424638271331787 Cost= 146.80000000000015 
+
+Manhattan Case1 - Time= 2.456272840499878 Cost= 181.0
+Manhattan Case2 - Time= 0.2549161911010742 Cost= 146.80000000000015
+
+Diagnol Case1 - Time= 1.1571447849273682 Cost= 181.0
+Diagnol Case2 - Time= 1.8512766361236572 Cost= 146.80000000000015
+
+Euclidean Case1 - Time= 1.0936522483825684 Cost= 181.0
+Euclidean Case2 - Time= 1.9834997653961182 Cost= 146.80000000000015
+
+Admissable Case1 - Time= 1.704373836517334 Cost= 181.0
+Admissable Case2 - Time= 3.963092088699341 Cost= 146.80000000000015
+
+Non-Admissable Case1 - Time= 0.2880868911743164 Cost= 195.0
+Non-Admissable Case2 - Time= 1.2687382698059082 Cost= 189.00000000000028
+
+
+
+
+

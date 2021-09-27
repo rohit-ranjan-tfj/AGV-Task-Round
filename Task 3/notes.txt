@@ -1,0 +1,29 @@
+https://towardsdatascience.com/kalman-filter-an-algorithm-for-making-sense-from-the-insights-of-various-sensors-fused-together-ddf67597f35e
+
+https://github.com/sharathsrini/Kalman-Filter-for-Sensor-Fusion/blob/master/Kalman_Filter.ipynb
+
+https://medium.com/@tjosh.owoyemi/kalman-filter-predict-measure-update-repeat-20a5e618be66
+
+https://towardsdatascience.com/kalman-filter-intuition-and-discrete-case-derivation-2188f789ec3a
+
+http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/
+
+https://www.kalmanfilter.net/default.aspx
+
+https://datascienceplus.com/understanding-the-covariance-matrix/
+
+http://www.sharetechnote.com/html/DE_StateSpaceModel.html
+
+https://www.kalmanfilter.net/multiSummary.html
+------
+Two prediction equations:
+
+    State Extrapolation Equation - prediction or estimation of the future state, based on the known present estimation.
+    Covariance Extrapolation Equation - the measure of uncertainty in our prediction.
+
+Two update equations:
+
+    State Update Equation - estimation of the current state, based on the known past estimation and present measurement.
+    Covariance Update Equation - the measure of uncertainty in our estimation.
+
+Kalman Gain Equation – required for computation of the update equations. The Kalman Gain is actually a "weighting" parameter for the measurement and the past estimations. It defines the weight of the past estimation and the weight of the measurement in estimating the current state. 

@@ -1,0 +1,45 @@
+# defining varibles
+del_t=0.01
+sigma_ax=1
+sigma_ay=1
+sigma_x=1
+sigma_y=1
+sigma_vx=0.1
+sigma_vy=0.1
+pos_x0,pos_y0=pos[0]
+p=1
+
+gives slightly smooth estimate but still not closed ellipse
+----------------------------------------------------------------------
+
+# defining varibles
+del_t=0.01
+sigma_ax=1
+sigma_ay=1
+sigma_x=2.5
+sigma_y=2.5
+sigma_vx=0.1
+sigma_vy=0.1
+pos_x0,pos_y0=pos[0]
+p=2.5
+
+gives very smooth estimate but still not closed ellipse
+------------------------------------------------------------------------
+# defining varibles
+del_t=0.01
+sigma_ax=10
+sigma_ay=10
+sigma_x=2.5
+sigma_y=0.5
+sigma_vx=1
+sigma_vy=1
+pos_x0,pos_y0=pos[0]
+p=2
+
+closes y gap to -10 
+------------------------------------------------------------------------
+DECREASING VALUE OF p GIVES SMOOTH ESTIMATE
+
+DECREASING sigma_v CAUSES X TO FALL SHORT AT END POINT
+
+INCREASING sigma_v CAUSES Y GAP TO INCREASE AT END POINT

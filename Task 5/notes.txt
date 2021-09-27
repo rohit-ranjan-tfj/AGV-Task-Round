@@ -1,0 +1,11 @@
+https://docs.opencv.org/master/d5/dae/tutorial_aruco_detection.html
+
+https://www.coursera.org/lecture/robotics-perception/where-am-i-part-1-q9CXI
+
+https://in.mathworks.com/help/vision/ug/camera-calibration.html
+
+https://aliyasineser.medium.com/aruco-marker-tracking-with-opencv-8cb844c26628
+
+https://docs.opencv.org/master/d7/d53/tutorial_py_pose.html
+
+https://docs.opencv.org/master/d9/dab/tutorial_homography.html

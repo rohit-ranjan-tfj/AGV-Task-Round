@@ -1,0 +1,17 @@
+--- Spline ---
+
+take a list of all points (>4)
+initial slope
+final slope
+create numpy array = (n-1)*4 square matrix
+fill in equations into the matrix
+take inverse of matrix
+plot
+
+
+---------
+https://fjp.at/posts/optimal-frenet/   ---- has sample code
+https://github.com/Nazanin1369/Path-Planning
+
+Holonomic (robotics), when controllable degrees of freedom are equal to the total degrees of freedom.
+Non-holonomic constraints are basically just all other cases: when the constraints cannot be written as an equation between coordinates (but often as an inequality). An example of a system with non-holonomic constraints is a particle trapped in a spherical shell
